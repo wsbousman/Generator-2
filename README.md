@@ -1,2 +1,3 @@
 # Generator 2
- Generator 2
+
+Javascript password generator iterating over charCode arrays.
